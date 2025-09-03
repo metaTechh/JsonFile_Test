@@ -8,13 +8,13 @@
     },
     {
        "Zone":"2",
-      "Color":"Blue",
+      "Color":"Red",
       "Output":"80",
       "KPI":"90"
     },
     {
        "Zone":"3",
-      "Color":"Red",
+      "Color":"Blue",
       "Output":"80",
       "KPI":"90"
     },
