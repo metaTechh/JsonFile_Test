@@ -2,7 +2,7 @@
   "Device":[
     {
       "Zone":"1",
-      "Color":"Blue",
+      "Color":"Red",
       "Output":"45",
       "KPI":"70"
     },
@@ -14,13 +14,13 @@
     },
     {
        "Zone":"3",
-      "Color":"Blue",
+      "Color":"Red",
       "Output":"80",
       "KPI":"90"
     },
     {
        "Zone":"4",
-      "Color":"Blue",
+      "Color":"Red",
       "Output":"80",
       "KPI":"90"
     }
